@@ -2,6 +2,8 @@
 
 This project was aimed to messure how fast can my new GPT called [MDB Schema Builder](https://chat.openai.com/g/g-J3KcWl0wj-mdb-schemabuilder) build a demo app for an "Instagram" like application.
 
+Result : ~30min
+
 Tech stack:
 - MongoDB Atlas
 - Pymongo
