@@ -7,6 +7,9 @@ Tech stack:
 - Pymongo
 - Streamlit
 
+## Demo app:
+https://kj5hq7hrgaooq9kzymhvmt.streamlit.app/
+
 
 ## Database schema
 
