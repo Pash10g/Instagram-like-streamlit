@@ -164,7 +164,7 @@ Create a MongoDB Atlas cluster:
 Create the database schema with the mongosh script
 ```
 npm i @ngneat/falso
-mognosh <your_atlas_cluster>
+mongosh <your_atlas_cluster>
 ```
 
 ```
